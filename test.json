@@ -1,0 +1,8 @@
+{
+	"CLOSE": "close",
+  "OPEN" : "open",
+  "SUB" : {
+    "CLOSE": "subclose",
+    "OPEN": "subopen"
+  }
+}
